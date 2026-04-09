@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>wisdom_course</title>
+        <meta charset="utf-8">
+        <link rel="icon" href="wisdom-1.jpeg">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body style="color: rgb(242, 246, 247);">
+    <h1 style="text-align: center; font-size: 2em; padding: 50px;  color: rgb(239, 64, 64);"  >WELCOM TO WISDOM COURSE</h1>
+    <p>Starting a teaching institute is not just about opening a classroom, but about creating a place where students can grow,
+    learn, and transform their future. Imagine an institute that welcomes every student, whether they are weak in studies,
+    average, or already good, and helps them become confident and skilled individuals. This institute is not limited to one
+    subject or one type of learning; instead, it is a complete learning hub where students can study school subjects, learn
+    computer skills, improve their communication, and prepare for their careers. The environment of the institute is
+    friendly, motivating, and focused on helping each student understand concepts clearly rather than just memorizing them.
+    Classrooms are clean, well-lit, and designed to make students feel comfortable and interested in learning. There are
+    whiteboards, digital screens for smart teaching, and a small library corner where students can read and explore beyond
+    their textbooks. The teaching style is simple, interactive, and practical, where the teacher explains topics using
+    real-life examples so that students can easily understand even difficult concepts. Instead of strict and boring
+    lectures, the classes are engaging, with questions, discussions, and activities that keep students involved. Every
+    student is given personal attention, especially those who are struggling, so that no one feels left behind.</p>
+
+<center>
+    <img src="Modern-Teaching-Methods.jpg" width="600" height="400">
+</center>
+    <hr>
+
+    <p>
+        more number of courses are available in our institute like computer skills, communication skills, career preparation and many more. We 
+        are committed to providing quality education and support to help students achieve their goals and succeed in their future endeavors.
+    </p>  
+
+    <h1>1. Web Development:</h1>
+        <ul>
+            <li>Web development is one of the most popular and useful skills in today’s digital world. It involves creating and
+            maintaining websites and web applications that people use every day, such as social media platforms, online shopping
+            sites, and educational portals. Web development is mainly divided into three parts: front-end, back-end, and full-stack
+            development. Front-end development focuses on the design and layout of a website using technologies like HTML, CSS, and
+            JavaScript, making the site attractive and user-friendly. Back-end development deals with the server, databases, and
+            application logic using languages such as Python, Java, or PHP. Full-stack developers handle both front-end and back-end
+            tasks. Learning web development helps students build creative projects, improve problem-solving skills, and opens up
+            many career opportunities like web designer, developer, or freelancer. It is a valuable course for anyone interested in
+            technology and innovation.</li>
+        </ul>
+    <h1>2. Communication Skills:</h1>
+        <ul>
+            <li>Effective communication is a vital skill in both personal and professional life. Our communication skills course focuses on
+            enhancing students' ability to express ideas clearly, listen actively, and interact confidently with others. The course covers
+            various aspects of communication, including verbal and non-verbal communication, public speaking, and interpersonal skills.
+            Students will have opportunities to practice these skills through role-playing exercises, group discussions, and presentations.
+            By the end of the course, students will be better equipped to communicate effectively in different situations and contexts.</li>
+        </ul>
+    <h1>3. App Development:</h1>
+        <ul>
+            <li>App development is the process of creating software applications that run on mobile devices, tablets, or computers. It
+            mainly focuses on building apps for platforms like Android and iOS, which people use daily for communication,
+            entertainment, learning, and business. App development is divided into front-end (user interface) and back-end (data
+            handling and server logic). Developers use languages like Java, Kotlin, or Swift for mobile apps, and tools like Flutter
+            or React Native to build apps that work on multiple platforms. App development requires creativity, logical thinking,
+            and problem-solving skills to design smooth and user-friendly experiences. Learning app development can help students
+            create their own apps, start startups, or work as professional developers, making it a highly valuable and in-demand
+            skill in today’s technology-driven world.</li>
+        </ul>
+    <h1>4. UPSC / TNPSC Coaching:</h1>
+        <ul>UPSC and TNPSC coaching is designed to prepare students for competitive government exams conducted by the Union Public
+        Service Commission and the Tamil Nadu Public Service Commission. These exams are highly respected and provide
+        opportunities to work in prestigious government positions such as IAS, IPS, and various state administrative roles.
+        Coaching programs help students understand the exam pattern, syllabus, and important topics like history, geography,
+        polity, economics, and current affairs. They also provide regular tests, study materials, and guidance from experienced
+        teachers to improve performance.
+        
+        UPSC coaching mainly focuses on national-level exams, which are more competitive and require deep understanding and
+        strong analytical skills. TNPSC coaching, on the other hand, is focused on Tamil Nadu state-level exams and includes
+        topics related to Tamil language, culture, and state-specific knowledge. These coaching classes help students build
+        discipline, improve time management, and develop confidence to succeed in exams. It is a great option for students who
+        aim to serve the public and build a stable and respected career in government service.</ul>
+    <center>
+             <a href="send-reqierment.html" style="font-size: large;color: white; background-color: green; width: 200px; padding: 10px; text-decoration: none;">Register Here</a>
+    </center>
+    </body>
+</html>
